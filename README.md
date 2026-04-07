@@ -1,20 +1,25 @@
-# 🥋 Proyecto POO Java - Juego de Lucha 2D con LibGDX
+# 🥋 2D Fighting Game - Java & LibGDX
 
-*Elaborado por:*  
-Anghelic Peñaranda  
-Stefany Murillo  
-Valeria Quitiaquez Pasuy 
+A 2D fighting game developed using Java and LibGDX, focused on object-oriented programming and game mechanics implementation.
 
-*Asignatura:* Ingeniería de software  
-*Docente:* Jhon Haide Cano Beltran  
-*Curso:* 6303A
+## 🚀 Features
+- Character selection and combat system
+- Custom controls and animations
+- Collision detection for attacks
+- Health system and game states (menu, fight, KO)
+- Sound effects and interactive gameplay
 
-## Descripción General
-Este proyecto consiste en un videojuego de lucha 2D desarrollado con Java y el framework LibGDX. Presenta una pantalla de menú y una pantalla de combate donde dos personajes (una ninja y una vaquera) se enfrentan con controles personalizados, animaciones, sonidos y detección de colisiones para ataques. Se han aplicado conceptos fundamentales de la Programación Orientada a Objetos, así como patrones de diseño para lograr una estructura de código modular y escalable.
+## 🧠 Technologies
+- Java
+- LibGDX
+- Object-Oriented Programming (OOP)
+- Design Patterns
 
-# Diagrama de clases
-![Untitled Diagram (3)](https://github.com/user-attachments/assets/4ea5d213-4187-42d9-a0e6-c3935d07d5ab)
+## 💡 Highlights
+This project demonstrates the implementation of OOP principles, including inheritance, polymorphism, and modular architecture applied to game development.
 
+## 👩‍💻 Author
+Valeria Quitiaquez
 
 ## Conceptos Aplicados
 Se implementan los cuatro pilares de la POO:
